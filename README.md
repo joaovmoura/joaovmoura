@@ -10,8 +10,8 @@
 
 [<img src="https://img.shields.io/github/followers/joaovmoura?label=Follow%20me&style=social" height="22" title="Follow me" />](https://github.com/joaovmoura) 
 [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/joao-vitor-moura-8904691b2/" height="23" title="LinkedIn" />](https://www.linkedin.com/in/joao-vitor-moura-8904691b2/)
-[<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/marcosgdanight" height="23" title="Instagram" />](https://www.instagram.com/joaovitornaovictor/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="23" title="Gmail" />](mailto:joao.vitor.moura@ccc.ufcg.edu.br)
+[<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/joaovitornaovictor" height="23" title="Instagram" />](https://www.instagram.com/joaovitornaovictor/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="23" title="Gmail" />](mailto:joao.vitor.figueiredo@ccc.ufcg.edu.br)
 
 <h4 align="left"> :computer: Languages and Tools :hammer:: </h4>
 <img align="left" alt="Java" width="26px" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" />
