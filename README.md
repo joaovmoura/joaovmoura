@@ -1,11 +1,4 @@
 ### Hi there 👋
-
-<h4 align="center"> Stats: </h4>
-<div>
-  <img align="right" width="420px" src="https://github-readme-stats.vercel.app/api?username=joaovmoura&&count_private=trueshow_icons=true,css&layout=compact&theme=github_dark"/>
-  <img align="rihgt"  width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovmoura&count_private=true&layout=compact&theme=github_dark"/>
-</div>
-
 #### 📫 How to reach me:
 
 [<img src="https://img.shields.io/github/followers/joaovmoura?label=Follow%20me&style=social" height="22" title="Follow me" />](https://github.com/joaovmoura) 
