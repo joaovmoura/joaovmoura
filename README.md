@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm a computer science student @ UFCG. Currently working with research and development in the distributed systems laboratory. 👋
 #### 📫 How to reach me:
 
 [<img src="https://img.shields.io/github/followers/joaovmoura?label=Follow%20me&style=social" height="22" title="Follow me" />](https://github.com/joaovmoura) 
