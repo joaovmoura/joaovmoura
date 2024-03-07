@@ -1,7 +1,4 @@
 ### Hi there, I'm a computer science student at UFCG. Currently working with research and development in the distributed systems laboratory (LSD@UFCG). 👋
-
-![João Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovmoura)
-
 #### 📫 How to reach me:
 
 [<img src="https://img.shields.io/github/followers/joaovmoura?label=Follow%20me&style=social" height="22" title="Follow me" />](https://github.com/joaovmoura) 
