@@ -14,8 +14,9 @@
 <img align="left" alt="Spring" width="26px" src="https://www.svgrepo.com/show/376350/spring.svg" />
 <img align="left" alt="Docker" width="26px" src="https://www.svgrepo.com/show/349342/docker.svg" />
 
+---
 
-![João Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovmoura&hide=contribs,prs)
+![João Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovmoura)
 
 
 <!--
