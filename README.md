@@ -15,6 +15,7 @@
 <img align="left" alt="Docker" width="26px" src="https://www.svgrepo.com/show/349342/docker.svg" />
 
 
+![image](https://github.com/joaovmoura/joaovmoura/assets/56238268/c17fae99-4285-4522-8dcf-92fbf0f851ac)
 
 
 
